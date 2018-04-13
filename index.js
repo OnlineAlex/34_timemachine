@@ -84,7 +84,7 @@ class TimerWidget{
       "top: 10px;" +
       "left: 10px;" +
       "position: fixed;" +
-      "z-index: 101;" +
+      "z-index: 5001;" +
       "background-color: #f6f6f6;" +
       "border-radius: 50%;" +
       "border: 5px dashed #505050;"
